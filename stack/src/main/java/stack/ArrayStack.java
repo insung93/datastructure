@@ -11,7 +11,7 @@ public class ArrayStack implements Stack {
 		itemArray = new char[this.stackSize];
 	}
 	  
-	@Override
+	@Override    
 	public boolean isEmpty() {
 		return (top==-1);
 	}
