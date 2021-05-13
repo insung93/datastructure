@@ -10,7 +10,7 @@ public class ArrayStack implements Stack {
 		this.stackSize=stackSize;
 		itemArray = new char[this.stackSize];
 	}
-	
+	  
 	@Override
 	public boolean isEmpty() {
 		return (top==-1);
