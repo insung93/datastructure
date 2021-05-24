@@ -12,8 +12,8 @@
 		<project.reporting.outputEncoding>UTF-8
 		</project.reporting.outputEncoding>
 	</properties>
-	
-		<build>
+
+	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<resources>
 			<resource>
@@ -42,8 +42,8 @@
 			</plugin>
 		</plugins>
 	</build>
-	
-		<modules>
-			<module>stack</module>
-		</modules>
+
+	<modules>
+		<module>stack</module>
+	</modules>
 </project>
