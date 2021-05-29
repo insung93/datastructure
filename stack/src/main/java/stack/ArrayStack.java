@@ -1,5 +1,6 @@
 package stack;
 
+
 public class ArrayStack implements Stack {
 	private int top;
 	private int stackSize;

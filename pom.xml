@@ -45,5 +45,6 @@
 
 	<modules>
 		<module>stack</module>
+		<module>queue</module>
 	</modules>
 </project>

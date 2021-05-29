@@ -1,5 +1,6 @@
 package stack;
 
+
 public interface Stack {
 	boolean isEmpty();
 	void push(char item);

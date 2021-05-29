@@ -1,5 +1,6 @@
 package stack;
 
+
 public class ArrayStackTest {
 
 	public static void main(String[] args) {
